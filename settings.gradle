@@ -1,0 +1,2 @@
+rootProject.name = "AndroidNCDe3"
+include ':app'
